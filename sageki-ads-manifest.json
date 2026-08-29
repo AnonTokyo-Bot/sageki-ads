@@ -1,204 +1,113 @@
 {
   "schemaVersion": 2,
-  "contentVersion": "20260829.3",
+  "contentVersion": "20260830.4-vp9adx",
   "installRelativePath": "GameData/A000/SaGEKIAdvertise",
   "videos": [
     {
       "file": "ad_001.usm",
-      "size": 192316288,
-      "sha256": "452b2f948c54649cfd0ff76c061d0c2a3e238bcd5d5d9d6f2f99cca5bf24113f",
+      "size": 218469024,
+      "sha256": "2f91cb4ecf6d8d4a88c4a04813284278dd55982037c3ecccfd420a15e1fd26f4",
       "weight": 1,
-      "archiveBaseName": "ad_001_20260830.7z",
-      "archiveSize": 186532355,
+      "archiveBaseName": "ad_001_20260830_vp9adx.7z",
+      "archiveSize": 218454099,
       "parts": [
         {
-          "name": "ad_001_20260830.7z.001",
+          "name": "ad_001_20260830_vp9adx.7z.001",
           "size": 20971520,
-          "sha256": "25d57716b45b453c478e195ee816fce32b07ce0d1df10454bf2196b96eabc845",
+          "sha256": "27a9e5bf54fa5dee2d59f3bc5246daf5009d8c1f461176e227c4a918916ed18d",
           "urls": [
-            "https://cdn.jsdelivr.net/gh/AnonTokyo-Bot/sageki-ads@main/ad_001_20260830.7z.001",
-            "https://raw.githubusercontent.com/AnonTokyo-Bot/sageki-ads/main/ad_001_20260830.7z.001"
+            "https://cdn.jsdelivr.net/gh/AnonTokyo-Bot/sageki-ads@main/ad_001_20260830_vp9adx.7z.001",
+            "https://raw.githubusercontent.com/AnonTokyo-Bot/sageki-ads/main/ad_001_20260830_vp9adx.7z.001"
           ]
         },
         {
-          "name": "ad_001_20260830.7z.002",
+          "name": "ad_001_20260830_vp9adx.7z.002",
           "size": 20971520,
-          "sha256": "ee89cf6f4ae99616b88d62c986787b8d7fc9ab32154016aa69ad59aa37fc9b17",
+          "sha256": "556a7278c0dabf11d4cc6617a886fc2106d448911db2eb211fcaeedc964e9c4e",
           "urls": [
-            "https://cdn.jsdelivr.net/gh/AnonTokyo-Bot/sageki-ads@main/ad_001_20260830.7z.002",
-            "https://raw.githubusercontent.com/AnonTokyo-Bot/sageki-ads/main/ad_001_20260830.7z.002"
+            "https://cdn.jsdelivr.net/gh/AnonTokyo-Bot/sageki-ads@main/ad_001_20260830_vp9adx.7z.002",
+            "https://raw.githubusercontent.com/AnonTokyo-Bot/sageki-ads/main/ad_001_20260830_vp9adx.7z.002"
           ]
         },
         {
-          "name": "ad_001_20260830.7z.003",
+          "name": "ad_001_20260830_vp9adx.7z.003",
           "size": 20971520,
-          "sha256": "dcb86071a159f5b865bb89429b97bbda2354427c7e602740f7822ed7cfe05284",
+          "sha256": "4bc57dc03f1d0c271d505cb43b5cbdf3995aa9969acf326f0532b73de4f83797",
           "urls": [
-            "https://cdn.jsdelivr.net/gh/AnonTokyo-Bot/sageki-ads@main/ad_001_20260830.7z.003",
-            "https://raw.githubusercontent.com/AnonTokyo-Bot/sageki-ads/main/ad_001_20260830.7z.003"
+            "https://cdn.jsdelivr.net/gh/AnonTokyo-Bot/sageki-ads@main/ad_001_20260830_vp9adx.7z.003",
+            "https://raw.githubusercontent.com/AnonTokyo-Bot/sageki-ads/main/ad_001_20260830_vp9adx.7z.003"
           ]
         },
         {
-          "name": "ad_001_20260830.7z.004",
+          "name": "ad_001_20260830_vp9adx.7z.004",
           "size": 20971520,
-          "sha256": "4c813259baf8ed5ed89b0a714f7d94cfca8c5811d446cea1fb403e9a7e78fcf7",
+          "sha256": "e330be5f30af32f14b8b5b62bbaec2ae4564af88ab831f588b8ce603fb9f9159",
           "urls": [
-            "https://cdn.jsdelivr.net/gh/AnonTokyo-Bot/sageki-ads@main/ad_001_20260830.7z.004",
-            "https://raw.githubusercontent.com/AnonTokyo-Bot/sageki-ads/main/ad_001_20260830.7z.004"
+            "https://cdn.jsdelivr.net/gh/AnonTokyo-Bot/sageki-ads@main/ad_001_20260830_vp9adx.7z.004",
+            "https://raw.githubusercontent.com/AnonTokyo-Bot/sageki-ads/main/ad_001_20260830_vp9adx.7z.004"
           ]
         },
         {
-          "name": "ad_001_20260830.7z.005",
+          "name": "ad_001_20260830_vp9adx.7z.005",
           "size": 20971520,
-          "sha256": "b3512233dfb20c79d698294fedb13ea713640a7827cb372493c41b382f28508e",
+          "sha256": "b8f9774bf50bba697d72682555329d1822351d160fe0b67bcbfdc52c34acb072",
           "urls": [
-            "https://cdn.jsdelivr.net/gh/AnonTokyo-Bot/sageki-ads@main/ad_001_20260830.7z.005",
-            "https://raw.githubusercontent.com/AnonTokyo-Bot/sageki-ads/main/ad_001_20260830.7z.005"
+            "https://cdn.jsdelivr.net/gh/AnonTokyo-Bot/sageki-ads@main/ad_001_20260830_vp9adx.7z.005",
+            "https://raw.githubusercontent.com/AnonTokyo-Bot/sageki-ads/main/ad_001_20260830_vp9adx.7z.005"
           ]
         },
         {
-          "name": "ad_001_20260830.7z.006",
+          "name": "ad_001_20260830_vp9adx.7z.006",
           "size": 20971520,
-          "sha256": "bc73d6ee9eca9f922995bd68e0b9b46fda8d438490069c8671ce8e1ee753bb6f",
+          "sha256": "7089208be82a1f20fadf3148db580a878badb9a640d597a2972dc83c9e35d99e",
           "urls": [
-            "https://cdn.jsdelivr.net/gh/AnonTokyo-Bot/sageki-ads@main/ad_001_20260830.7z.006",
-            "https://raw.githubusercontent.com/AnonTokyo-Bot/sageki-ads/main/ad_001_20260830.7z.006"
+            "https://cdn.jsdelivr.net/gh/AnonTokyo-Bot/sageki-ads@main/ad_001_20260830_vp9adx.7z.006",
+            "https://raw.githubusercontent.com/AnonTokyo-Bot/sageki-ads/main/ad_001_20260830_vp9adx.7z.006"
           ]
         },
         {
-          "name": "ad_001_20260830.7z.007",
+          "name": "ad_001_20260830_vp9adx.7z.007",
           "size": 20971520,
-          "sha256": "b3155bf059821c81eac913e742c912a84c7df5e29e438c083982c75f98514338",
+          "sha256": "2223c54c8a90327b4b9afab33783733bedf859cad112e139a02fbeb3d695a7e6",
           "urls": [
-            "https://cdn.jsdelivr.net/gh/AnonTokyo-Bot/sageki-ads@main/ad_001_20260830.7z.007",
-            "https://raw.githubusercontent.com/AnonTokyo-Bot/sageki-ads/main/ad_001_20260830.7z.007"
+            "https://cdn.jsdelivr.net/gh/AnonTokyo-Bot/sageki-ads@main/ad_001_20260830_vp9adx.7z.007",
+            "https://raw.githubusercontent.com/AnonTokyo-Bot/sageki-ads/main/ad_001_20260830_vp9adx.7z.007"
           ]
         },
         {
-          "name": "ad_001_20260830.7z.008",
+          "name": "ad_001_20260830_vp9adx.7z.008",
           "size": 20971520,
-          "sha256": "74f0b224ca865b12d319ee1ceefc3c06d419e0a80eec32509afda8b6e9c3134f",
+          "sha256": "6a793a15f7e8706bbd6160348b1777aa3b9655452fa20db0e39cecebd619ecfa",
           "urls": [
-            "https://cdn.jsdelivr.net/gh/AnonTokyo-Bot/sageki-ads@main/ad_001_20260830.7z.008",
-            "https://raw.githubusercontent.com/AnonTokyo-Bot/sageki-ads/main/ad_001_20260830.7z.008"
+            "https://cdn.jsdelivr.net/gh/AnonTokyo-Bot/sageki-ads@main/ad_001_20260830_vp9adx.7z.008",
+            "https://raw.githubusercontent.com/AnonTokyo-Bot/sageki-ads/main/ad_001_20260830_vp9adx.7z.008"
           ]
         },
         {
-          "name": "ad_001_20260830.7z.009",
-          "size": 18760195,
-          "sha256": "aa71667e7c90d560504fcb32fd3dfa1c762b33a5b73ca67aa53ae556504f1cf8",
-          "urls": [
-            "https://cdn.jsdelivr.net/gh/AnonTokyo-Bot/sageki-ads@main/ad_001_20260830.7z.009",
-            "https://raw.githubusercontent.com/AnonTokyo-Bot/sageki-ads/main/ad_001_20260830.7z.009"
-          ]
-        }
-      ]
-    },
-    {
-      "file": "ad_002.usm",
-      "size": 222419936,
-      "sha256": "815ddb96b9f8622bc25ed3a6125a67f9cdcb7cce1a4f2bc246c3a35de2372f20",
-      "weight": 1,
-      "archiveBaseName": "ad_002_20260830.7z",
-      "archiveSize": 216095699,
-      "parts": [
-        {
-          "name": "ad_002_20260830.7z.001",
+          "name": "ad_001_20260830_vp9adx.7z.009",
           "size": 20971520,
-          "sha256": "6008790d4bfa5abc586a24db42b3e89c82d4a48405cd6bd0ffb74b601a36af68",
+          "sha256": "d696059519777c4203bf497ebdbd9ad5c03577c0d36358804901f577d7fa95df",
           "urls": [
-            "https://cdn.jsdelivr.net/gh/AnonTokyo-Bot/sageki-ads@main/ad_002_20260830.7z.001",
-            "https://raw.githubusercontent.com/AnonTokyo-Bot/sageki-ads/main/ad_002_20260830.7z.001"
+            "https://cdn.jsdelivr.net/gh/AnonTokyo-Bot/sageki-ads@main/ad_001_20260830_vp9adx.7z.009",
+            "https://raw.githubusercontent.com/AnonTokyo-Bot/sageki-ads/main/ad_001_20260830_vp9adx.7z.009"
           ]
         },
         {
-          "name": "ad_002_20260830.7z.002",
+          "name": "ad_001_20260830_vp9adx.7z.010",
           "size": 20971520,
-          "sha256": "8772ad36041cdc85acea704dbda92ba1547e997cd5866dae93e1281721d5e349",
+          "sha256": "96acef07a99e1e6a0e5f46b55c6ca9d1a59bb0aaedf707b131eb5ba42cba48c0",
           "urls": [
-            "https://cdn.jsdelivr.net/gh/AnonTokyo-Bot/sageki-ads@main/ad_002_20260830.7z.002",
-            "https://raw.githubusercontent.com/AnonTokyo-Bot/sageki-ads/main/ad_002_20260830.7z.002"
+            "https://cdn.jsdelivr.net/gh/AnonTokyo-Bot/sageki-ads@main/ad_001_20260830_vp9adx.7z.010",
+            "https://raw.githubusercontent.com/AnonTokyo-Bot/sageki-ads/main/ad_001_20260830_vp9adx.7z.010"
           ]
         },
         {
-          "name": "ad_002_20260830.7z.003",
-          "size": 20971520,
-          "sha256": "e3190730a0e9daa75422160604eb10e77f402bf4d6eb23d29d439c05562a9752",
+          "name": "ad_001_20260830_vp9adx.7z.011",
+          "size": 8738899,
+          "sha256": "73c6891f553ba9c2b3d52e98f5859a4ea512855b6354e06f18c41aa6486dc1f8",
           "urls": [
-            "https://cdn.jsdelivr.net/gh/AnonTokyo-Bot/sageki-ads@main/ad_002_20260830.7z.003",
-            "https://raw.githubusercontent.com/AnonTokyo-Bot/sageki-ads/main/ad_002_20260830.7z.003"
-          ]
-        },
-        {
-          "name": "ad_002_20260830.7z.004",
-          "size": 20971520,
-          "sha256": "684d6d1539a72a9ac08308324249d197b3705ff816b6dca9d780028025621e22",
-          "urls": [
-            "https://cdn.jsdelivr.net/gh/AnonTokyo-Bot/sageki-ads@main/ad_002_20260830.7z.004",
-            "https://raw.githubusercontent.com/AnonTokyo-Bot/sageki-ads/main/ad_002_20260830.7z.004"
-          ]
-        },
-        {
-          "name": "ad_002_20260830.7z.005",
-          "size": 20971520,
-          "sha256": "5f0a418466788e00642495bca7fd95d9050c88324d7d11b389495c3fa749e8c3",
-          "urls": [
-            "https://cdn.jsdelivr.net/gh/AnonTokyo-Bot/sageki-ads@main/ad_002_20260830.7z.005",
-            "https://raw.githubusercontent.com/AnonTokyo-Bot/sageki-ads/main/ad_002_20260830.7z.005"
-          ]
-        },
-        {
-          "name": "ad_002_20260830.7z.006",
-          "size": 20971520,
-          "sha256": "abf47c29c9af410a4bfdba1b2961f7653578a0d9574e3c2c11e22ee0ace8af56",
-          "urls": [
-            "https://cdn.jsdelivr.net/gh/AnonTokyo-Bot/sageki-ads@main/ad_002_20260830.7z.006",
-            "https://raw.githubusercontent.com/AnonTokyo-Bot/sageki-ads/main/ad_002_20260830.7z.006"
-          ]
-        },
-        {
-          "name": "ad_002_20260830.7z.007",
-          "size": 20971520,
-          "sha256": "530c509389890225d9ab837a82e768ee4f17f530935b10d99d1fadb271e01beb",
-          "urls": [
-            "https://cdn.jsdelivr.net/gh/AnonTokyo-Bot/sageki-ads@main/ad_002_20260830.7z.007",
-            "https://raw.githubusercontent.com/AnonTokyo-Bot/sageki-ads/main/ad_002_20260830.7z.007"
-          ]
-        },
-        {
-          "name": "ad_002_20260830.7z.008",
-          "size": 20971520,
-          "sha256": "2fbbb044f32fd1c4b821883875edfdc4898a62619b38caca851969afc535237f",
-          "urls": [
-            "https://cdn.jsdelivr.net/gh/AnonTokyo-Bot/sageki-ads@main/ad_002_20260830.7z.008",
-            "https://raw.githubusercontent.com/AnonTokyo-Bot/sageki-ads/main/ad_002_20260830.7z.008"
-          ]
-        },
-        {
-          "name": "ad_002_20260830.7z.009",
-          "size": 20971520,
-          "sha256": "97d102f5438bb8ae312b17babdbe9ccdd83625bdcbff2d213735a066bc742302",
-          "urls": [
-            "https://cdn.jsdelivr.net/gh/AnonTokyo-Bot/sageki-ads@main/ad_002_20260830.7z.009",
-            "https://raw.githubusercontent.com/AnonTokyo-Bot/sageki-ads/main/ad_002_20260830.7z.009"
-          ]
-        },
-        {
-          "name": "ad_002_20260830.7z.010",
-          "size": 20971520,
-          "sha256": "ed261b7e876b814d2a5578b43e38ff4483776bdf4a2801297802d3cf1780bf37",
-          "urls": [
-            "https://cdn.jsdelivr.net/gh/AnonTokyo-Bot/sageki-ads@main/ad_002_20260830.7z.010",
-            "https://raw.githubusercontent.com/AnonTokyo-Bot/sageki-ads/main/ad_002_20260830.7z.010"
-          ]
-        },
-        {
-          "name": "ad_002_20260830.7z.011",
-          "size": 6380499,
-          "sha256": "a3aa3976eb7e958358d374f8e46441e871e0f4eabd0175bed3f26fa7f5c353e1",
-          "urls": [
-            "https://cdn.jsdelivr.net/gh/AnonTokyo-Bot/sageki-ads@main/ad_002_20260830.7z.011",
-            "https://raw.githubusercontent.com/AnonTokyo-Bot/sageki-ads/main/ad_002_20260830.7z.011"
+            "https://cdn.jsdelivr.net/gh/AnonTokyo-Bot/sageki-ads@main/ad_001_20260830_vp9adx.7z.011",
+            "https://raw.githubusercontent.com/AnonTokyo-Bot/sageki-ads/main/ad_001_20260830_vp9adx.7z.011"
           ]
         }
       ]
