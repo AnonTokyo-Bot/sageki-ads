@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "contentVersion": "20260830.5-vp9adx",
+  "contentVersion": "20260830.6-vp9adx",
   "installRelativePath": "GameData/A000/SaGEKIAdvertise",
   "videos": [
     {
@@ -115,7 +115,7 @@
     {
       "file": "ad_002.usm",
       "size": 240786016,
-      "sha256": "550c7f9e67801c6e1c4365cc4c5f37c7004b55faa32a0e89f9ebbca6bc1cf85",
+      "sha256": "550c7f9e67801c6e1c4365cc4c5f37c7004b55faa32a0e89f9ebbca6bcb1cf85",
       "weight": 1,
       "archiveBaseName": "ad_002_20260830_vp9adx.7z",
       "archiveSize": 240778291,
